@@ -1,0 +1,11 @@
+C:\Users\soothsayer\Documents\GitHub\rust-project-logistic\target\debug\deps\libdotenvy-98f13f695ea55f86.rmeta: C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\lib.rs C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\errors.rs C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\find.rs C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\iter.rs C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\parse.rs
+
+C:\Users\soothsayer\Documents\GitHub\rust-project-logistic\target\debug\deps\libdotenvy-98f13f695ea55f86.rlib: C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\lib.rs C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\errors.rs C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\find.rs C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\iter.rs C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\parse.rs
+
+C:\Users\soothsayer\Documents\GitHub\rust-project-logistic\target\debug\deps\dotenvy-98f13f695ea55f86.d: C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\lib.rs C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\errors.rs C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\find.rs C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\iter.rs C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\parse.rs
+
+C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\lib.rs:
+C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\errors.rs:
+C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\find.rs:
+C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\iter.rs:
+C:\Users\soothsayer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dotenvy-0.15.7\src\parse.rs:
